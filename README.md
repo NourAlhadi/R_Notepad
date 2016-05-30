@@ -1,2 +1,3 @@
 # R_Notepad
-R_Notepad
+First project is always favourity...
+This is my own first
