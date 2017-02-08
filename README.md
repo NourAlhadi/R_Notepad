@@ -1,4 +1,4 @@
 # R_Notepad
-First project is always favourity...
- This is my own first
- Now that i've done my tutorial with Git-Hub i'm ready to start
+R_Notepad is my first official app I build.<br>
+	It's just a simple notepad for now while working around to make it better.<br>
+	This App designed using Java/GUI and the source code is avilable to contribute.
